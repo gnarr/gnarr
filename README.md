@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![gnarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnarr&show_icons=true&count_private=true&theme=radical)](https://github.com/gnarr)
+
+[![gnarr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gnarr&theme=radical)](https://github.com/gnarr)
+
+[![gnarr's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnarr&layout=compact&theme=radical)](https://github.com/gnarr)
+
 <!--
 **gnarr/gnarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
